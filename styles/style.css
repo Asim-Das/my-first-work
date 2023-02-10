@@ -7,6 +7,7 @@ h1 {
     font-size: 50px;
 }
 
+/* Navigation area and top area styles */
 .nav-area {
     display: flex;
     justify-content: end;
@@ -32,6 +33,7 @@ h1 {
     margin-bottom: 130px;
 }
 
+/* Button's Styles */
 .join-us {
     padding: 10px 20px;
     border: none;
@@ -41,6 +43,7 @@ h1 {
 
 }
 
+/* My Failure section styles */
 .my-thoughts {
     margin-left: 845px;
     padding-top: 250px;
@@ -56,6 +59,7 @@ h1 {
     font-size: 16px;
     margin-bottom: 30px;
 }
+
 
 .my-previous-achievment {
     display: flex;
@@ -74,6 +78,7 @@ h1 {
     padding-left: 60px;
 }
 
+/* My future Plans Styles */
 .plan-area h1 {
     text-align: center;
 }
@@ -95,6 +100,7 @@ h1 {
     color: white;
 }
 
+/* My thinking area styles */
 .thinking-positive {
     background-image: linear-gradient(to right, rgba(13, 48, 243, 0.52), rgba(202, 204, 206, 0.212)), url('../images/watch.png');
     background-repeat: no-repeat;
@@ -105,6 +111,7 @@ h1 {
     border-radius: 8px;
 }
 
+/* My comminucaton area styles */
 .communicate-area {
     background-color: black;
     display: flex;
