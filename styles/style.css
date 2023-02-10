@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.nav-area {
+    display: flex;
+    justify-content: end;
+    padding: 30px;
+}
+
+.nav-area li {
+    list-style: none;
+    padding-left: 30px;
+}
+
+.nav-area a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.top-banner {
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 690px;
+    margin-bottom: 130px;
+}
+
+.join-us {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #005FAC;
+    margin-left: 30px;
+
+}
+
+.my-thoughts {
+    margin-left: 845px;
+    padding-top: 250px;
+}
+
+.popular-quote {
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.quote-description {
+    color: #FFFFFF;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.my-previous-achievment {
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    margin-bottom: 200px;
+}
+
+.image-area {
+    margin-left: 50px;
+}
+
+.data-area {
+    margin-top: 200px;
+    margin-right: 50px;
+    padding-left: 60px;
+}
+
+.plan-area h1 {
+    text-align: center;
+}
+
+.my-plans {
+    width: 1140px;
+    display: flex;
+    margin: 100px 100px;
+}
+
+.want-to-learn {
+    padding-left: 100px;
+
+}
+
+.thinking-positive h1 {
+    padding-top: 80px;
+    margin: 30px;
+    color: white;
+}
+
+.thinking-positive {
+    background-image: linear-gradient(to right, rgba(13, 48, 243, 0.52), rgba(202, 204, 206, 0.212)), url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 70px;
+    margin-bottom: 130px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+.communicate-area {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 200px;
+}
+
+.future-area {
+    color: white;
+    width: 485px;
+    height: 300px;
+}
+
+.subscribe-area {
+    color: white;
+    width: 325px;
+    height: 280px;
+}
+
+.btn-subscribe {
+    padding: 15px 30px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #005FAC;
+    color: white;
+}
+
+footer {
+    font-size: 14px;
+    text-align: center;
+}
